@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/parik/Documents/Projects/Jar/ide2dfx/bin",
+  "command": "/usr/bin/c++    -I/home/parik/Documents/Projects/Jar/ide2dfx/include  -g   -o CMakeFiles/ide2dfx.dir/src/2DFX.cxx.o -c /home/parik/Documents/Projects/Jar/ide2dfx/src/2DFX.cxx",
+  "file": "/home/parik/Documents/Projects/Jar/ide2dfx/src/2DFX.cxx"
+}
+]
