@@ -14,5 +14,6 @@ to GTA SA's binary 2dfx format.
 ## References
 
 III/VC Format - https://www.gtamodding.com/wiki/2DFX
+
 SA     Format - https://www.gtamodding.com/wiki/2d_Effect_(RW_Section)
 
